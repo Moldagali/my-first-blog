@@ -1,0 +1,8 @@
+(myvenv) D:\DjangoGirls>python manage.py createsuperuser     
+Username (leave blank to use 'yerzhm'): 
+Email address: yerzhm@kpo.kz
+Password: KabakBeke!61su
+Password (again): KabakBeke!61su
+Superuser created successfully.
+
+(myvenv) D:\DjangoGirls>
