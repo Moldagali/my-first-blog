@@ -1,9 +1,0 @@
---- create git repository
-(myvenv) D:\DjangoGirls>git init
-Initialized empty Git repository in D:/DjangoGirls/.git/
-
-(myvenv) D:\DjangoGirls>git config --global user.name "gitrepo1"  
-
-(myvenv) D:\DjangoGirls>git config --global user.email ymowork@gmail.com
-
-(myvenv) D:\DjangoGirls>
